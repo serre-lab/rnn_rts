@@ -28,7 +28,8 @@
 
 <div align="center" width="400">
 <img src="illustrations/metric.png" width="400"> <br> 
-<p style="font-size:12px;text-align: left;font-style: italic">We find a way to quantify the internal recurrent dynamics of a large-scale vision model by devising a metric ξ based on subjective logic theory. We use the metric to study <b>temporal</b> human-model alignment on different (and challenging) visual cognition tasks (e.g., incremental grouping task shown here). More in our <a href="https://arxiv.org/abs/2306.11582">paper</a>.
+<i> <sub align="left">We find a way to quantify the internal recurrent dynamics of a large-scale vision model by devising a metric ξ based on subjective logic theory. We use the metric to study <b>temporal</b> human-model alignment on different (and challenging) visual cognition tasks (e.g., incremental grouping task shown here). More in our <a href="https://arxiv.org/abs/2306.11582">paper</a>.
+</sub> </i>
 </p>
 
 </div>
