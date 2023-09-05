@@ -8,7 +8,7 @@
 
 <h4 align="center">Lore Goetschalckx*, Lakshmi N. Govindarajan*, Alekh K. Ashok, Aarit Ahuja, David L. Sheinberg, & Thomas Serre</h4>
 
-<p style="text-align: center">
+<p align="center" style="text-align: center">
 <a href="https://www.python.org"><img src="https://img.shields.io/badge/Python-3.7-3776AB.svg?style=flat&amp;logo=python&amp;logoColor=white" alt="python"></a>
 <a href="https://pytorch.org"><img src="https://img.shields.io/badge/PyTorch-1.8.0-EE4C2C.svg?style=flat&amp;logo=pytorch" alt="pytorch"></a>
 <a href="https://serre-lab.github.io/rnn_rts_site/"><img alt="RNN RTS" src="https://img.shields.io/badge/Project%20page-RNN%20RTs-green"></a>
