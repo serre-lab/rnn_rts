@@ -55,7 +55,7 @@ curves and extract ξ in:
 <img src="illustrations/zebra.gif"> 
 
 ## Spatial uncertainty maps
-Specifically for the incremental task, we introduced spatial uncertainty maps to probe a cRNN's visual strategies. For a given outline stimulus, one dot (indicated in white) is kept fixed while the position of the other is varied. Each position in the map has a value corresponding to the ξ for the respective dot configuration (fixed dot + other dot). You can find a demo of how to produce such maps in:
+Specifically for the incremental grouping task, we introduced spatial uncertainty maps to probe a cRNN's visual strategies. For a given outline stimulus, one dot (indicated in white) is kept fixed while the position of the other is varied. Each position in the map has a value corresponding to the ξ for the respective dot configuration (fixed dot + other dot). You can find a demo of how to produce such maps in:
 
 <a href="spatial_uncertainty_maps.ipynb">spatial_uncertainty_maps.ipynb</a>.
 
